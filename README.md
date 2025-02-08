@@ -38,8 +38,8 @@ The **AG News Dataset** consists of news articles categorized into four classes:
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ag-news-classification.git
-cd ag-news-classification
+git clone https://github.com/Sharukg/Text-Classification-with-Deep-Learning
+cd Text-Classification-with-Deep-Learning
 ```
 
 ### 2️⃣ Install dependencies:
