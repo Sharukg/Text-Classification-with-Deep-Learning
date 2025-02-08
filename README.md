@@ -88,6 +88,4 @@ The **Streamlit app** allows real-time classification of news articles. After ru
 
 ---
 
-## ✨ Author
-👤 **Your Name** - [GitHub Profile](https://github.com/sharukg)
 
